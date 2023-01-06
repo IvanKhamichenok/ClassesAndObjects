@@ -19,7 +19,7 @@ public class CreditDemo {
         creditCard2.withdraw = 0;
         creditCard2.replenish = 10;
         creditCard2.noMoneyNoHoney = creditCard2.cash + creditCard2.replenish -creditCard2.withdraw ;
-        System.out.println("У Гейба "+creditCard2.noMoneyNoHoney+" бел.руб.");
+        System.out.println("У Ньуэла "+creditCard2.noMoneyNoHoney+" бел.руб.");
 
         creditCard3.number = 323456789;
         creditCard3.cash = 1000;
