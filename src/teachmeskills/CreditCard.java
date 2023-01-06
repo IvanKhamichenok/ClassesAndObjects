@@ -2,9 +2,10 @@ package teachmeskills;
 
 public class CreditCard {
 
-        double number;
-        double cash;
-        double withdraw;
-        double replenish;
+        double number;// номер карты
+        double cash;// сколько кэша на карте ?
+        double withdraw;// снятие
+        double replenish;// пополнение
+        double noMoneyNoHoney ;// итог
 
 }
