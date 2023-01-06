@@ -3,11 +3,9 @@ package teachmeskills;
 public class CreditDemo {
     public static void main(String[] args) {
 
-
         CreditCard creditCard1 = new CreditCard();
         CreditCard creditCard2 = new CreditCard();
         CreditCard creditCard3 = new CreditCard();
-
 
         creditCard1.number = 123456789;
         creditCard1.cash = 1000;
